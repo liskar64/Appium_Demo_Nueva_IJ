@@ -1,59 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a36777ec-1fb3-44a6-bdf6-03be90645f7f" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/cucumber-reports.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/cucumber-reports/formatter.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/cucumber-reports/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/cucumber-reports/jquery-1.8.2.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/cucumber-reports/report.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/cucumber-reports/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/site/cucumber-reports/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/site/cucumber-reports/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/site/cucumber-reports/consulta-prestamos.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/site/cucumber-reports/consulta-saldo.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/site/cucumber-reports/consulta-tarjetas.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/site/cucumber-reports/cucumberJava-features-1-login-ok-feature.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/site/cucumber-reports/cucumberJava-features-2-login-no-ok-feature.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/site/cucumber-reports/cucumberJava-features-3-consulta-saldo-feature.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/site/cucumber-reports/cucumberJava-features-4-consulta-tarjetas-feature.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/site/cucumber-reports/cucumberJava-features-5-consulta-prestamos-feature.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/site/cucumber-reports/feature-overview.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/site/cucumber-reports/highcharts-3d.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/site/cucumber-reports/highcharts.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/site/cucumber-reports/jquery.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/site/cucumber-reports/jquery.tablesorter.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/site/cucumber-reports/login-not-ok.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/site/cucumber-reports/login-ok.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/site/cucumber-reports/reporting.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/site/cucumber-reports/step-overview.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/site/cucumber-reports/tag-overview.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/surefire/surefire1496256116180275057tmp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/surefire/surefire1608608199883154767tmp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/surefire/surefire3606659985494073077tmp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/surefire/surefire4327001925054125656tmp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/surefire/surefire4689175338486549743tmp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/surefire/surefire5199006650579056278tmp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/surefire/surefire5877993017170728073tmp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/surefire/surefire5898112535915285470tmp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/surefire/surefire7926305080947927572tmp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/surefire/surefire858287876145555486tmp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/surefire/surefirebooter126770126799373004.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/surefire/surefirebooter5837444799877832347.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/surefire/surefirebooter6601240712138966337.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/surefire/surefirebooter6777174451798177477.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/surefire/surefirebooter8381200429076746842.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/test-classes/cucumberJava/cucumberJava.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/test-classes/cucumberJava/features/1-login-ok.feature" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/test-classes/cucumberJava/features/2-login-no-ok.feature" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/test-classes/cucumberJava/features/3-consulta-saldo.feature" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/test-classes/cucumberJava/features/4-consulta-tarjetas.feature" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/test-classes/cucumberJava/features/5-consulta-prestamos.feature" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/test-classes/cucumberJava/runTest.class" afterPath="" />
-    </list>
+    <list default="true" id="a36777ec-1fb3-44a6-bdf6-03be90645f7f" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/../Appium_Demo_Nueva/out/" />
     <ignored path="$PROJECT_DIR$/../Appium_Demo_Nueva/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -343,6 +291,14 @@
       <option name="presentableId" value="Default" />
       <updated>1530532358143</updated>
     </task>
+    <task id="LOCAL-00001" summary="Segunda subida sin target">
+      <created>1530698158198</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1530698158198</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -368,8 +324,8 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32930514" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23817292" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="true" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32930514" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23817292" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32952693" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -420,6 +376,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Segunda subida sin target" />
+    <option name="LAST_COMMIT_MESSAGE" value="Segunda subida sin target" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
