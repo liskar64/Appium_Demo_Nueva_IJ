@@ -75,11 +75,6 @@ public class cucumberJava {
     @Cuando("^introduzco el Usuario \"([^\"]*)\" y la Contrasena \"([^\"]*)\"$")
     public void I_enter_Usuario_as_and_Contrasena_as(String arg1, String arg2) throws AWTException {
 
-          //driver.findElement(By.id("etUser")).sendKeys(arg1);
-
-          //driver.findElement(By.id("etCustomerName")).sendKeys(arg2);
-
-          //driver.findElement(By.id("btn_enter")).click();
 
         driver.findElement(By.id("user")).sendKeys(arg1);
 
@@ -94,9 +89,6 @@ public class cucumberJava {
 
     @Entonces("saldra mensaje de error y no podremos entrar$")
     public void login_no_ok() {
-
-
-        //Assert.assertTrue(isElementPresent(By.id("message")));
 
         Assert.assertTrue(isElementPresent(By.id("alertMessage")));
 
@@ -126,10 +118,6 @@ public class cucumberJava {
 
     @Entonces("entraremos en la aplicacion$")
     public void login_ok() {
-
-   //appium-demo     Assert.assertFalse(isElementPresent(By.id("alertMessage")));
-
-        //Assert.assertFalse(isElementPresent(By.id("message")));
 
         Assert.assertFalse(isElementPresent(By.id("alertMessage")));
 
