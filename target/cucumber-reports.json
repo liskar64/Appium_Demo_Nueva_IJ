@@ -1,0 +1,111 @@
+[
+  {
+    "comments": [
+      {
+        "line": 1,
+        "value": "# language: es"
+      }
+    ],
+    "line": 6,
+    "elements": [
+      {
+        "line": 9,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Antecedentes",
+        "steps": [
+          {
+            "result": {
+              "duration": 20343292961,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "que me conecte a la aplicacion",
+            "match": {
+              "location": "cucumberJava.openDevices()"
+            },
+            "keyword": "Dado "
+          }
+        ]
+      },
+      {
+        "line": 22,
+        "name": "una vez logados correctamente consultamos el saldo de los prestamos",
+        "description": "",
+        "id": "consulta-de-los-prestamos;una-vez-logados-correctamente-consultamos-el-saldo-de-los-prestamos;;2",
+        "type": "scenario",
+        "keyword": "Esquema del escenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 11434000912,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "introduzco el Usuario \"64026203E\" y la Contrasena \"Ibermatica\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "64026203E",
+                  "offset": 23
+                },
+                {
+                  "val": "Ibermatica",
+                  "offset": 51
+                }
+              ],
+              "location": "cucumberJava.I_enter_Usuario_as_and_Contrasena_as(String,String)"
+            },
+            "matchedColumns": [
+              0,
+              1
+            ],
+            "keyword": "Cuando "
+          },
+          {
+            "result": {
+              "duration": 5882917160,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "pulso en prestamos",
+            "match": {
+              "location": "cucumberJava.pulso_prestamos()"
+            },
+            "keyword": "Y "
+          },
+          {
+            "result": {
+              "duration": 7976916212,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "veremos el saldo de los prestamos",
+            "match": {
+              "location": "cucumberJava.consulta_saldo_prestamos()"
+            },
+            "keyword": "Entonces "
+          }
+        ],
+        "tags": [
+          {
+            "line": 4,
+            "name": "@consulta-prestamos"
+          }
+        ]
+      }
+    ],
+    "name": "Consulta de los prestamos",
+    "description": "",
+    "id": "consulta-de-los-prestamos",
+    "keyword": "Característica",
+    "uri": "cucumberJava/features/5-consulta-prestamos.feature",
+    "tags": [
+      {
+        "line": 4,
+        "name": "@consulta-prestamos"
+      }
+    ]
+  }
+]
