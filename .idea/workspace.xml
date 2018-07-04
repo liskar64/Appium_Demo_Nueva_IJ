@@ -2,123 +2,57 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a36777ec-1fb3-44a6-bdf6-03be90645f7f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/src/apk/appiumDemoViper.apk" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/surefire/surefirebooter126770126799373004.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/surefire/surefirebooter5837444799877832347.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/surefire/surefirebooter6601240712138966337.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/surefire/surefirebooter6777174451798177477.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/surefire/surefirebooter8381200429076746842.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/test-classes/cucumberJava/cucumberJava.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/test-classes/cucumberJava/runTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/.idea/libraries/Maven__cglib_cglib_nodep_3_2_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/.idea/libraries/Maven__com_codeborne_phantomjsdriver_1_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/.idea/libraries/Maven__com_google_code_gson_gson_2_8_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/.idea/libraries/Maven__com_google_guava_guava_21_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/.idea/libraries/Maven__commons_io_commons_io_2_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/.idea/libraries/Maven__commons_validator_commons_validator_1_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/.idea/libraries/Maven__info_cukes_cucumber_core_1_2_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/.idea/libraries/Maven__info_cukes_cucumber_html_0_2_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/.idea/libraries/Maven__info_cukes_cucumber_java_1_2_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/.idea/libraries/Maven__info_cukes_cucumber_junit_1_2_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/.idea/libraries/Maven__info_cukes_cucumber_jvm_deps_1_0_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/.idea/libraries/Maven__info_cukes_gherkin_2_12_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/.idea/libraries/Maven__io_appium_java_client_5_0_0_BETA8.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/.idea/libraries/Maven__junit_junit_4_12.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/.idea/libraries/Maven__net_java_dev_jna_jna_4_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/.idea/libraries/Maven__net_java_dev_jna_jna_platform_4_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/.idea/libraries/Maven__net_sourceforge_cssparser_cssparser_0_9_22.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_2_26.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_core_js_2_26.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/.idea/libraries/Maven__net_sourceforge_htmlunit_neko_htmlunit_2_25.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_5_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/.idea/libraries/Maven__org_eclipse_jetty_jetty_client_9_4_3_v20170317.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/.idea/libraries/Maven__org_eclipse_jetty_jetty_http_9_4_3_v20170317.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/.idea/libraries/Maven__org_eclipse_jetty_jetty_io_9_4_1_v20170120.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/.idea/libraries/Maven__org_eclipse_jetty_jetty_util_9_4_1_v20170120.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_api_9_4_3_v20170317.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_client_9_4_3_v20170317.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_common_9_4_3_v20170317.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/.idea/libraries/Maven__org_seleniumhq_selenium_htmlunit_driver_2_26.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_3_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_3_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_3_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_3_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_3_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_3_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_opera_driver_3_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_3_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_3_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_3_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/.idea/libraries/Maven__org_w3c_css_sac_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/.idea/libraries/Maven__xalan_serializer_2_7_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/.idea/libraries/Maven__xalan_xalan_2_7_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/.idea/libraries/Maven__xerces_xercesImpl_2_11_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/.idea/libraries/Maven__xml_apis_xml_apis_1_4_01.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/Appium_Demo_Nueva.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/src/test/java/cucumberJava/cucumberJava.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/src/test/java/cucumberJava/runTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/src/test/resources/cucumberJava/features/1-login-ok.feature" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/src/test/resources/cucumberJava/features/2-login-no-ok.feature" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/src/test/resources/cucumberJava/features/3-consulta-saldo.feature" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/src/test/resources/cucumberJava/features/4-consulta-tarjetas.feature" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/src/test/resources/cucumberJava/features/5-consulta-prestamos.feature" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/cucumber-reports.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/cucumber-reports/formatter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/cucumber-reports/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/cucumber-reports/jquery-1.8.2.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/cucumber-reports/report.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/cucumber-reports/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/site/cucumber-reports/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/site/cucumber-reports/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/site/cucumber-reports/consulta-prestamos.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/site/cucumber-reports/consulta-saldo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/site/cucumber-reports/consulta-tarjetas.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/site/cucumber-reports/cucumberJava-features-1-login-ok-feature.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/site/cucumber-reports/cucumberJava-features-2-login-no-ok-feature.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/site/cucumber-reports/cucumberJava-features-3-consulta-saldo-feature.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/site/cucumber-reports/cucumberJava-features-4-consulta-tarjetas-feature.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/site/cucumber-reports/cucumberJava-features-5-consulta-prestamos-feature.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/site/cucumber-reports/feature-overview.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/site/cucumber-reports/highcharts-3d.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/site/cucumber-reports/highcharts.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/site/cucumber-reports/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/site/cucumber-reports/jquery.tablesorter.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/site/cucumber-reports/login-not-ok.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/site/cucumber-reports/login-ok.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/site/cucumber-reports/reporting.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/site/cucumber-reports/step-overview.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/site/cucumber-reports/tag-overview.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/surefire/surefire1496256116180275057tmp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/surefire/surefire1608608199883154767tmp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/surefire/surefire3606659985494073077tmp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/surefire/surefire4327001925054125656tmp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/surefire/surefire4689175338486549743tmp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/surefire/surefire5199006650579056278tmp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/surefire/surefire5877993017170728073tmp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/surefire/surefire5898112535915285470tmp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/surefire/surefire7926305080947927572tmp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/surefire/surefire858287876145555486tmp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/test-classes/cucumberJava/features/1-login-ok.feature" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/test-classes/cucumberJava/features/2-login-no-ok.feature" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/test-classes/cucumberJava/features/3-consulta-saldo.feature" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/test-classes/cucumberJava/features/4-consulta-tarjetas.feature" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/test-classes/cucumberJava/features/5-consulta-prestamos.feature" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/cucumber-reports.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/cucumber-reports/formatter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/cucumber-reports/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/cucumber-reports/jquery-1.8.2.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/cucumber-reports/report.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/cucumber-reports/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/site/cucumber-reports/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/site/cucumber-reports/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/site/cucumber-reports/consulta-prestamos.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/site/cucumber-reports/consulta-saldo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/site/cucumber-reports/consulta-tarjetas.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/site/cucumber-reports/cucumberJava-features-1-login-ok-feature.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/site/cucumber-reports/cucumberJava-features-2-login-no-ok-feature.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/site/cucumber-reports/cucumberJava-features-3-consulta-saldo-feature.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/site/cucumber-reports/cucumberJava-features-4-consulta-tarjetas-feature.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/site/cucumber-reports/cucumberJava-features-5-consulta-prestamos-feature.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/site/cucumber-reports/feature-overview.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/site/cucumber-reports/highcharts-3d.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/site/cucumber-reports/highcharts.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/site/cucumber-reports/jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/site/cucumber-reports/jquery.tablesorter.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/site/cucumber-reports/login-not-ok.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/site/cucumber-reports/login-ok.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/site/cucumber-reports/reporting.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/site/cucumber-reports/step-overview.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/site/cucumber-reports/tag-overview.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/surefire/surefire1496256116180275057tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/surefire/surefire1608608199883154767tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/surefire/surefire3606659985494073077tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/surefire/surefire4327001925054125656tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/surefire/surefire4689175338486549743tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/surefire/surefire5199006650579056278tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/surefire/surefire5877993017170728073tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/surefire/surefire5898112535915285470tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/surefire/surefire7926305080947927572tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/surefire/surefire858287876145555486tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/surefire/surefirebooter126770126799373004.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/surefire/surefirebooter5837444799877832347.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/surefire/surefirebooter6601240712138966337.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/surefire/surefirebooter6777174451798177477.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/surefire/surefirebooter8381200429076746842.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/test-classes/cucumberJava/cucumberJava.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/test-classes/cucumberJava/features/1-login-ok.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/test-classes/cucumberJava/features/2-login-no-ok.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/test-classes/cucumberJava/features/3-consulta-saldo.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/test-classes/cucumberJava/features/4-consulta-tarjetas.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/test-classes/cucumberJava/features/5-consulta-prestamos.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Appium_Demo_Nueva/target/test-classes/cucumberJava/runTest.class" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/../Appium_Demo_Nueva/out/" />
     <ignored path="$PROJECT_DIR$/../Appium_Demo_Nueva/target/" />
@@ -155,7 +89,7 @@
         <entry file="file://$PROJECT_DIR$/../Appium_Demo_Nueva/src/test/java/cucumberJava/cucumberJava.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="256">
-              <caret line="49" column="64" lean-forward="true" selection-start-line="49" selection-start-column="64" selection-end-line="49" selection-end-column="64" />
+              <caret line="49" column="64" lean-forward="false" selection-start-line="49" selection-start-column="64" selection-end-line="49" selection-end-column="64" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -215,7 +149,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="width" value="1366" />
     <option name="height" value="724" />
   </component>
@@ -426,7 +360,7 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-4" y="-4" width="1374" height="732" extended-state="7" />
+    <frame x="-4" y="-4" width="1374" height="732" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -434,13 +368,13 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930514" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23817292" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32930514" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23817292" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32952693" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32854986" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32854986" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32789558" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -662,7 +596,7 @@
     <entry file="file://$PROJECT_DIR$/../Appium_Demo_Nueva/src/test/java/cucumberJava/cucumberJava.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="256">
-          <caret line="49" column="64" lean-forward="true" selection-start-line="49" selection-start-column="64" selection-end-line="49" selection-end-column="64" />
+          <caret line="49" column="64" lean-forward="false" selection-start-line="49" selection-start-column="64" selection-end-line="49" selection-end-column="64" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
