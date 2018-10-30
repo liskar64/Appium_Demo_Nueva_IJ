@@ -19,6 +19,7 @@ pipeline {
 	post{
 		success{
 			echo 'Finalizacion correcta'
+			cucumber:Cucumber reports
 		}	
 	}
 }
