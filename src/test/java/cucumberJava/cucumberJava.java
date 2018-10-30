@@ -39,17 +39,19 @@ public class cucumberJava {
         appiumServiceUrl = appiumService.getUrl().toString();
         System.out.println("Appium Service Address : - "+ appiumServiceUrl);
 
-
-
-
         DesiredCapabilities capabilities = new DesiredCapabilities();
         capabilities.setCapability("platformName","Android");
+        //capabilities.setCapability("deviceName","LG K4 (2017)");
+        //capabilities.setCapability("platformVersion","6.0.1");
         capabilities.setCapability("deviceName","Xperia M2");
         capabilities.setCapability("platformVersion","5.1.1");
         //capabilities.setCapability("deviceName","Aquaris E5");
         //capabilities.setCapability("platformVersion","6.0.1");
         capabilities.setCapability("browser_Name","Android");
-        capabilities.setCapability("app","src/apk/appiumDemoViper.apk");
+        capabilities.setCapability("app","src/apk/AppiumDemoViper_2.apk");
+        //capabilities.setCapability("app","src/apk/tuneupkit_1.3.apk");
+        //capabilities.setCapability("app","src/apk/AppiumDemoViper_2.signed.debug.apk");
+        //capabilities.setCapability("app","src/apk/Application-debug.signed.debug.apk");
         //capabilities.setCapability("app","C:/Appium_Demo/src/apk/AppiumDemo.apk");
         //capabilities.setCapability("app","C:/jenkins2/data/jobs/Appium_Demo/workspace/src/apk/AppiumDemo.apk");
         //capabilities.setCapability("session-override","True");
