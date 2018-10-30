@@ -12,7 +12,7 @@ pipeline {
 		stage('Pruebas'){
 			steps{
 			echo 'lanzo test'
-			bat 'mvn test'				
+			sh 'mvn -test'				
 			}
 		}
 		}
