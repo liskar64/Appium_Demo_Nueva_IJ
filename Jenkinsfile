@@ -9,10 +9,11 @@ pipeline {
 				echo 'Bienvenido usuario'
 				}
 		}
-		stage('Maven build') {
-        buildInfo = rtMaven.run pom: 'Appium_Demo_Nueva_Pipeline/pom.xml', goals: 'clean install'
-    }
-
+		stage('Pruebas'){
+			steps{
+			sh 'mvn clean'				
+			}
+		}
 		}
 	post{
 		success{
