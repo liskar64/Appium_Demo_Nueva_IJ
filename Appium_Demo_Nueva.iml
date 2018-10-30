@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
-    <output url="file://$MODULE_DIR$/../Appium_Demo_Nueva/target/classes" />
-    <output-test url="file://$MODULE_DIR$/../Appium_Demo_Nueva/target/test-classes" />
-    <content url="file://$MODULE_DIR$/../Appium_Demo_Nueva">
-      <sourceFolder url="file://$MODULE_DIR$/../Appium_Demo_Nueva/src/main/java" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../Appium_Demo_Nueva/src/main/resources" type="java-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/../Appium_Demo_Nueva/src/test/java" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../Appium_Demo_Nueva/src/test/resources" type="java-test-resource" />
-      <excludeFolder url="file://$MODULE_DIR$/../Appium_Demo_Nueva/target" />
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <output-test url="file://$MODULE_DIR$/target/test-classes" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/resources" type="java-test-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="com.lesfurets:jenkins-pipeline-unit:1.1" level="project" />
     <orderEntry type="library" name="Maven: org.seleniumhq.selenium:selenium-java:3.4.0" level="project" />
     <orderEntry type="library" name="Maven: org.seleniumhq.selenium:selenium-api:3.4.0" level="project" />
     <orderEntry type="library" name="Maven: org.seleniumhq.selenium:selenium-chrome-driver:3.4.0" level="project" />
@@ -64,5 +65,10 @@
     <orderEntry type="library" scope="TEST" name="Maven: junit:junit:4.12" level="project" />
     <orderEntry type="library" name="Maven: commons-validator:commons-validator:1.4.0" level="project" />
     <orderEntry type="library" name="Maven: io.appium:java-client:5.0.0-BETA8" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: com.lesfurets:jenkins-pipeline-unit:1.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.codehaus.groovy:groovy-all:2.4.6" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: com.cloudbees:groovy-cps:1.12" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.apache.ivy:ivy:2.4.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.assertj:assertj-core:3.4.1" level="project" />
   </component>
 </module>
