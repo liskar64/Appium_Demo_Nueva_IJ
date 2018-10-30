@@ -11,7 +11,8 @@ pipeline {
 		}
 		stage('Pruebas'){
 			steps{
-			sh 'mvn test'				
+			echo 'lanzo test'
+			bat 'mvn test'				
 			}
 		}
 		}
