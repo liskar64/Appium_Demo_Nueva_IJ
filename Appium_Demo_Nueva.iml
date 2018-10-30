@@ -65,10 +65,5 @@
     <orderEntry type="library" scope="TEST" name="Maven: junit:junit:4.12" level="project" />
     <orderEntry type="library" name="Maven: commons-validator:commons-validator:1.4.0" level="project" />
     <orderEntry type="library" name="Maven: io.appium:java-client:5.0.0-BETA8" level="project" />
-    <orderEntry type="library" scope="TEST" name="Maven: com.lesfurets:jenkins-pipeline-unit:1.1" level="project" />
-    <orderEntry type="library" scope="TEST" name="Maven: org.codehaus.groovy:groovy-all:2.4.6" level="project" />
-    <orderEntry type="library" scope="TEST" name="Maven: com.cloudbees:groovy-cps:1.12" level="project" />
-    <orderEntry type="library" scope="TEST" name="Maven: org.apache.ivy:ivy:2.4.0" level="project" />
-    <orderEntry type="library" scope="TEST" name="Maven: org.assertj:assertj-core:3.4.1" level="project" />
   </component>
 </module>
