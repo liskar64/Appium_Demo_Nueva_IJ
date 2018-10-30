@@ -18,8 +18,11 @@ pipeline {
 		}
 	post{
 		success{
-			echo 'Finalizacion correcta'
-			cucumber:Cucumber reports
+			steps{cucumber:Cucumber reports
+			    script{
+			cucumber fileIncludePattern: '**/*.json', sortingMethod: 'ALPHABETICAL'
 		}	
+		}
 	}
+    }
 }
