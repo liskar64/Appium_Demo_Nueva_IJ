@@ -11,8 +11,7 @@ pipeline {
 		}
 		stage('Pruebas'){
 			steps{
-			echo 'lanzo test'
-			sh 'mvn -test'				
+			sh 'mvn clean'				
 			}
 		}
 		}
