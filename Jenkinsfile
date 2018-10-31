@@ -24,8 +24,14 @@ pipeline {
 		}
 		}
 	post{
+	    always{
+		       echo 'Ha terminado el pipeline'
+			   }
 		success{
 		       echo 'Success'
+			}
+		failure{
+		       echo 'Failure'
 			}
     }
 }
