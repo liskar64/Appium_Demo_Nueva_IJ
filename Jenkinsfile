@@ -24,7 +24,7 @@ pipeline {
 		             }
 			   }
 		success{
-		       echo 'Resultado:Success'
+		       echo 'Resultado:Ejecucion OK'
 			   emailext attachLog: true, body: 'El pipipeline ha sido un exito', compressLog: true, subject: 'Resultado pipeline', to: 'c.carles@ibermatica.com'
 			}
 		failure{
