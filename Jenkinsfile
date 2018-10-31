@@ -15,23 +15,19 @@ pipeline {
                 bat 'mvn test'				
 			}
 		}
-		stage('Informe'){
-		    steps{
-			   script{
-			      cucumber fileIncludePattern: '**/*.json', sortingMethod: 'ALPHABETICAL'
-		             }
-		          }
-		}
 		}
 	post{
 	    always{
 		       echo 'Ha terminado el pipeline'
+			   script{
+			      cucumber fileIncludePattern: '**/*.json', sortingMethod: 'ALPHABETICAL'
+		             }
 			   }
 		success{
-		       echo 'Success'
+		       echo 'Resultado:Success'
 			}
 		failure{
-		       echo 'Failure'
+		       echo 'FResultado:Failure'
 			}
     }
 }
