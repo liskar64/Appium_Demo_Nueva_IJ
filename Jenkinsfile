@@ -21,13 +21,14 @@ pipeline {
 		       echo 'Ha terminado el pipeline'
 			   script{
 			      cucumber fileIncludePattern: '**/*.json', sortingMethod: 'ALPHABETICAL'
+				  emailextrecipients()
 		             }
 			   }
 		success{
 		       echo 'Resultado:Success'
 			}
 		failure{
-		       echo 'FResultado:Failure'
+		       echo 'Resultado:Failure'
 			}
     }
 }
