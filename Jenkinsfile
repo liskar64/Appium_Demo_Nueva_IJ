@@ -25,8 +25,8 @@ pipeline {
 		}
 	post{
 		success{
-		      script{
-			      cucumber fileIncludePattern: '**/*.json', sortingMethod: 'ALPHABETICAL'
+		      steps{
+			      echo 'Success'
 		}
 
 	}
