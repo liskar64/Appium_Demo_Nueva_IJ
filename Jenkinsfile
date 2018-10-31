@@ -16,9 +16,11 @@ pipeline {
 			}
 		}
 		stage('Informe'){
-			script{
+		    steps{
+			   script{
 			      cucumber fileIncludePattern: '**/*.json', sortingMethod: 'ALPHABETICAL'
-		    }
+		             }
+		          }
 		}
 		}
 	post{
