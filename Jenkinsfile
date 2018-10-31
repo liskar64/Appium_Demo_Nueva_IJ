@@ -21,7 +21,7 @@ pipeline {
 		       echo 'Ha terminado el pipeline'
 			   script{
 			      cucumber fileIncludePattern: '**/*.json', sortingMethod: 'ALPHABETICAL'
-				  emailextrecipients()
+				  emailext attachLog: true, body: '', compressLog: true, subject: 'Resultado pipeline', to: 'c.carles@ibermatica.com'
 		             }
 			   }
 		success{
