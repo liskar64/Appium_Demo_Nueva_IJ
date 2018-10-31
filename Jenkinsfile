@@ -15,6 +15,11 @@ pipeline {
                 bat 'mvn test'				
 			}
 		}
+		stage('Informe'){
+			script{
+			      cucumber fileIncludePattern: '**/*.json', sortingMethod: 'ALPHABETICAL'
+		    }
+		}
 		}
 	post{
 		success{
