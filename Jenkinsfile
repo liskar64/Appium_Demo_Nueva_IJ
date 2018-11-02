@@ -24,11 +24,11 @@ pipeline {
 		             }
 			   }
 		success{
-		       echo 'Resultado:Ejecucion OK'
+		       echo 'Resultado:OK'
 			   emailext attachLog: true, body: 'El pipipeline ha sido un exito', compressLog: true, subject: 'Resultado pipeline', to: 'c.carles@ibermatica.com'
 			}
 		failure{
-		       echo 'Resultado:Ejecucion KO'
+		       echo 'Resultado:KO'
 			   emailext attachLog: true, body: 'El pipipeline ha sido un desastre', compressLog: true, subject: 'Resultado pipeline', to: 'c.carles@ibermatica.com'
 			}
     }
